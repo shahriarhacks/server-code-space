@@ -1,0 +1,131 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": {
+      "number": 4.6,
+      "badge": "Super"
+    },
+    "total_view": 48898,
+    "price": 189.99,
+    "title": "Complete MERN Stack Development",
+    "author": {
+      "name": "SHAHRIAR AHMED",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://i.ibb.co/2F0Zr35/sas.jpg"
+    },
+    "image_url": "https://www.servermania.com/kb/wp-content/uploads/2022/04/KB-MERN-Featured.jpg",
+    "details": "MERN Stack is one of the most popular user-friendly Full Stack Web Development structures. It helps us improve our applications to a great extent. You don't need to learn multiple programming languages for web application development because MERN stack covers both front-end as well as back-end."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f1dj30je62h",
+    "category_id": "01",
+    "rating": {
+      "number": 4.3,
+      "badge": "Excellent"
+    },
+    "total_view": 20388,
+    "price": 183.99,
+    "title": "Full Stack Web Developer - MEAN Stack",
+    "author": {
+      "name": "Nushrat Talukdar",
+      "published_date": "2022-10-20 11:27:34",
+      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+    },
+    "image_url": "https://miro.medium.com/max/1400/1*HgJ-L3_LdA8bR_I8pcMehQ.png",
+    "details": "Our Full Stack Developer course will allow you to learn how to create full-stack web applications using the front-end and back-end JavaScript technologies, which form the core of MEAN—MongoDB, ExpressJS and Node.js. As part of this MEAN Stack course, you will cover each module in detail and gain hands-on experience by executing real-world projects."
+  },
+
+  {
+    "_id": "02898uj98uj39uj30mnb3y7893gfr5",
+    "category_id": "02",
+    "rating": {
+      "number": 4.5,
+      "badge": "Rising"
+    },
+    "total_view": 30808,
+    "price": 94.99,
+    "title": "Complete Flutter App Development",
+    "author": {
+      "name": "Shahriar Talukdar",
+      "published_date": "2022-10-20 11:27:34",
+      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+    },
+    "image_url": "https://thurrott.s3.amazonaws.com/2019/05/flutter-mobile-web-desktop.jpg",
+    "details": "Flutter is the new Cross-platform Mobile Development Framework created by Google, allowing developers to build Android and iOS Apps with one single codebase! Flutter is the BEST way to create cross-platform apps that otherwise would require two distinct mobile development teams to create."
+  },
+  {
+    "_id": "0282e0e58a5c40456787654r7s3e794ri37s7d76",
+    "category_id": "02",
+    "rating": {
+      "number": 4.1,
+      "badge": "Excellent"
+    },
+    "total_view": 22488,
+    "price": 99.99,
+    "title": "Mobile App Development with Kotlin",
+    "author": {
+      "name": "Nushrat Jahan",
+      "published_date": "2022-10-20 11:27:34",
+      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+    },
+    "image_url": "https://kotlinlang.org/assets/images/twitter/general.png",
+    "details": "Kotlin is a programming language which is available across platforms and statically typed with type inference. This course will equip you with the understanding required to develop mobile applications using Kotlin. It explores setting up the Kotlin development environment and implementing the build codes. Learn about variables, testing codes online, data types, control statements, functions, exception handling and Kotlin classes and objects."
+  },
+  {
+    "_id": "02906f65r57g68jf7gd57900h67d65",
+    "category_id": "03",
+    "rating": {
+      "number": 4.9,
+      "badge": "Super Short"
+    },
+    "total_view": 99488,
+    "price": 89.99,
+    "title": "Complete Node JS",
+    "author": {
+      "name": "Nushrat Ahmed",
+      "published_date": "2022-10-20 11:27:34",
+      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+    "details": "Learn Web Development online at your own pace. Start today and improve your skills. Find the right instructor for you. Choose from many topics, skill levels, and languages. 30-Day Money Guarantee. Download To Your Phone. Lifetime Access. Courses in 60+ Languages."
+  },
+
+  {
+    "_id": "67yy3h67gr567yg5rr3567e3",
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Rising"
+    },
+    "total_view": 23670,
+    "price": 69.99,
+    "title": "Complete MySQL Course",
+    "author": {
+      "name": "Nushrat Ahmed",
+      "published_date": "2022-10-20 11:27:34",
+      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+    },
+    "image_url": "https://i.ibb.co/gRzHyGQ/mysql.png",
+    "details": "MySql is one of the most popular databases. We just published a MySQL Database course on the freeCodeCamp.org YouTube channel.Bharath Ram Manoharan from Execute on Command created this course. He is a senior database engineer and great teacher."
+  },
+
+  {
+    "_id": "67yg986e5e45f9n3rcp3bp6dr3",
+    "category_id": "04",
+    "rating": {
+      "number": 4.8,
+      "badge": "Super Short"
+    },
+    "total_view": 88488,
+    "price": 87.99,
+    "title": "MongoDB Certification Training Course",
+    "author": {
+      "name": "Nushrat Ahmed",
+      "published_date": "2022-10-20 11:27:34",
+      "img": "https://i.ibb.co/Fq0zFYc/nus.jpg"
+    },
+    "image_url": "https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775",
+    "details": "Simple learn’s MongoDB certification equips you with the relevant skills required to become a MongoDB Developer. The highly-qualified instructors for this MongoDB course help you understand why more businesses are using MongoDB development services to handle their increasing data storage and handling demands. Our MongoDB training is equipped with industry projects, lab exercises and various demos to explain key concepts. Enroll in our MongoDB online course and learn this popular NoSQL database"
+  }
+]
